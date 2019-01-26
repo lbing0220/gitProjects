@@ -1,0 +1,6 @@
+git add
+git commit -m ""
+git logs
+git status
+git logs
+git reflog

@@ -4,5 +4,3 @@ git logs
 git status
 git logs
 git reflog
-git diff
-git differenct
